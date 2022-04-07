@@ -4,7 +4,7 @@ html {
 body {
     height: 100%;
     margin: 0;
-    background-color: burlywood;
+    background-color: brown;
 }
 
 .navbar {
@@ -22,4 +22,17 @@ body {
     max-width: max-content;
     padding-left: 0%;
     padding-right: 0%;
+}
+
+#icon{
+    text-align: center;
+    color: white;
+    background-color: aqua;
+    width: 100%;
+    font-size: 30px;
+}
+
+.box{
+    text-align: justify;
+    color: white;
 }
