@@ -36,3 +36,12 @@ body {
     text-align: justify;
     color: white;
 }
+
+#destacado{
+    background-color: cadetblue;
+}
+
+.linea{
+    width: 80%;
+    padding-top: 5;
+}
