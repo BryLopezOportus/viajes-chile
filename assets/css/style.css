@@ -1,5 +1,6 @@
 html {
     height: 100%;
+    scroll-behavior: smooth;
 }
 body {
     height: 100%;
@@ -60,8 +61,8 @@ body {
 }
 
 h3{
-    font-family: 'Padauk', sans-serif;
-    font-weight: 400;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
     font-size: 40px;
     text-align: center;
     color: whitesmoke;
@@ -73,7 +74,7 @@ h3{
 }
 
 h4{
-    font-family: 'Concert One', cursive;
+    font-family: 'Kaushan Script', cursive;
     font-weight: 400;
     color: whitesmoke;
     text-align: center;
@@ -84,4 +85,10 @@ h4{
     color: whitesmoke;
     font-size: 30px;
     text-align: center;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
 }
