@@ -7,6 +7,11 @@ body {
     background-color: brown;
 }
 
+.navbar-brand{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 400;
+}
+
 .navbar {
     background-color: transparent !important;
     -webkit-transition: all .5s;
@@ -24,10 +29,16 @@ body {
     padding-right: 0%;
 }
 
+.barra{
+    width: 100%;
+    background-color: cornflowerblue;
+    ;
+    padding: 5px;
+}
+
 #icon{
     text-align: center;
     color: white;
-    background-color: aqua;
     width: 100%;
     font-size: 30px;
 }
@@ -37,10 +48,40 @@ body {
     color: white;
 }
 
-#destacado{
-}
-
 .linea{
     width: 80%;
     padding-top: 5;
+    color: darkcyan;
+    padding: 1px;
+}
+
+.card-body{
+    background-color: cornflowerblue;
+}
+
+h3{
+    font-family: 'Padauk', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#foot{
+    background-color: darkslategrey;
+    padding-top: 5px;
+}
+
+h4{
+    font-family: 'Concert One', cursive;
+    font-weight: 400;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 5px;
+}
+
+#social{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
 }
