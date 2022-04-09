@@ -5,7 +5,7 @@ html {
 body {
     height: 100%;
     margin: 0;
-    background-color: brown;
+    background-color: #D3ECA7;
 }
 
 .navbar-brand{
@@ -20,7 +20,7 @@ body {
   }
   
   .navbar.alt-color {
-    background-color: black !important;
+    background-color: #19282F !important;
   }
 
 #carrusel{
@@ -32,14 +32,14 @@ body {
 
 .barra{
     width: 100%;
-    background-color: cornflowerblue;
+    background-color: #A1B57D;
     ;
     padding: 5px;
 }
 
 #icon{
     text-align: center;
-    color: white;
+    color: darkslategrey;
     width: 100%;
     font-size: 30px;
 }
@@ -52,12 +52,12 @@ body {
 .linea{
     width: 80%;
     padding-top: 5;
-    color: darkcyan;
+    color: #19282F;
     padding: 1px;
 }
 
 .card-body{
-    background-color: cornflowerblue;
+    background-color: #A1B57D;
 }
 
 h3{
@@ -65,7 +65,7 @@ h3{
     font-weight: 600;
     font-size: 40px;
     text-align: center;
-    color: whitesmoke;
+    color: #19282F;
 }
 
 #foot{
@@ -91,4 +91,5 @@ p{
     font-family: 'Quicksand', sans-serif;
     font-weight: 300;
     font-size: 18px;
+    color: black;
 }
